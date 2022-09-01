@@ -1,0 +1,34 @@
+## box model
+
+> CSS가 표시하는 모든 것은 박스다.
+
+```html```
+<p> I am a paragraph of text that has a few words in it.</p>
+```
+
+```css
+p {
+  width: 200px;
+  height: 50px;
+  padding: 20px;
+  border: 2px solid;
+}
+body {
+  font-family: sans-serif;
+  padding: 2em;
+}
+```
+
+- 박스 모델의 영역은 다음과 같다.
+  
+  - Margin box > Border box > Padding box > Content box
+
+
+
+## Overflow
+
+- 콘텐츠가 박스에 비해 너무 크면 이를 overflow라고 한다.
+
+
+
+
