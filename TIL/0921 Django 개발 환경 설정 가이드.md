@@ -2,13 +2,11 @@
 
 ## 가상환경 생성
 
-
-
 #### ✔ Git bash
 
 ![](C:\Users\이주현\AppData\Roaming\marktext\images\2022-09-21-14-33-40-image.png)
 
-#### ~ cd 를 통해 초기 지점으로 이동
+#### cd ~ 를 통해 초기 지점으로 이동
 
 ![](C:\Users\이주현\AppData\Roaming\marktext\images\2022-09-21-14-34-38-image.png)
 
@@ -76,15 +74,11 @@
 
 ![](C:\Users\이주현\AppData\Roaming\marktext\images\2022-09-21-15-04-16-image.png)
 
-
-
 #### manage.py 실행을 통해 코드 실행
 
 > python manage.py runserver
 
 ![](C:\Users\이주현\AppData\Roaming\marktext\images\2022-09-21-15-05-55-image.png)
-
-
 
 ## ✔서버 확인
 
@@ -93,5 +87,3 @@
 - 로컬 호스트를 통해 서버에 접속 할 수 있다.
 
 ![](C:\Users\이주현\AppData\Roaming\marktext\images\2022-09-21-15-07-40-image.png)
-
-
